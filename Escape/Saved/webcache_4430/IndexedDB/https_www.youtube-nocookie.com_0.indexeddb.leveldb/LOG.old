@@ -1,0 +1,15 @@
+2024/08/29-14:39:57.477 41600 Reusing MANIFEST C:/Users/Julia/Documents/Unreal Projects/Escape/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/29-14:39:57.478 41600 Recovering log #4
+2024/08/29-14:39:57.478 41600 Reusing old log C:/Users/Julia/Documents/Unreal Projects/Escape/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/08/29-15:56:33.216 45bb4 Level-0 table #8: started
+2024/08/29-15:56:33.224 45bb4 Level-0 table #8: 190 bytes OK
+2024/08/29-15:56:33.226 45bb4 Delete type=0 #4
+2024/08/29-15:56:33.226 45bb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/29-15:56:33.226 45bb4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/08/29-15:56:33.226 45bb4 Compacting 1@1 + 1@2 files
+2024/08/29-15:56:33.234 45bb4 Generated table #9@1: 18 keys, 534 bytes
+2024/08/29-15:56:33.234 45bb4 Compacted 1@1 + 1@2 files => 534 bytes
+2024/08/29-15:56:33.235 45bb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/29-15:56:33.235 45bb4 Delete type=2 #5
+2024/08/29-15:56:33.235 45bb4 Delete type=2 #8
+2024/08/29-15:56:33.236 45bb4 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
